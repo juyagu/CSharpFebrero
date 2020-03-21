@@ -1,0 +1,14 @@
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\DAO.dll.config
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\DAO.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\DAO.pdb
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\Entidades.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\EntityFramework.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\Entidades.pdb
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\Entidades.dll.config
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\EntityFramework.xml
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\obj\Debug\DAO.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\DAO\obj\Debug\DAO.pdb

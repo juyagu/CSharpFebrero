@@ -1,0 +1,11 @@
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\Entidades.dll.config
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\Entidades.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\Entidades.pdb
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\EntityFramework.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\EntityFramework.xml
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\obj\Debug\Entidades.dll
+D:\EducacionIT\CSharp\c5\ABM_Entity\Entidades\obj\Debug\Entidades.pdb

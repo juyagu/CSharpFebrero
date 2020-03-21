@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABM_Entity", "ABM_Entity\ABM_Entity.csproj", "{B427FC7A-A7A6-4483-90E0-5A9D8D8430AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{4624638F-4B98-468C-AB26-73F6573CD770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{FBDEFA05-6ABD-49B5-B155-64DAD7BA9366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B427FC7A-A7A6-4483-90E0-5A9D8D8430AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B427FC7A-A7A6-4483-90E0-5A9D8D8430AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B427FC7A-A7A6-4483-90E0-5A9D8D8430AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B427FC7A-A7A6-4483-90E0-5A9D8D8430AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4624638F-4B98-468C-AB26-73F6573CD770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4624638F-4B98-468C-AB26-73F6573CD770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4624638F-4B98-468C-AB26-73F6573CD770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4624638F-4B98-468C-AB26-73F6573CD770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDEFA05-6ABD-49B5-B155-64DAD7BA9366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDEFA05-6ABD-49B5-B155-64DAD7BA9366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDEFA05-6ABD-49B5-B155-64DAD7BA9366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDEFA05-6ABD-49B5-B155-64DAD7BA9366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C20021-C54E-4575-B533-DA8823F2C14F}
+	EndGlobalSection
+EndGlobal
